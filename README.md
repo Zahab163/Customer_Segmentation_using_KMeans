@@ -3,7 +3,7 @@
 
 ## 📚 Overview
 This repository contains two comprehensive Jupyter Notebook implementations of customer segmentation using K-Means clustering algorithm. The project focuses on analyzing credit card customer data to identify distinct customer segments based on their spending behavior, credit usage patterns, and demographic characteristics.
-**(Live Demo)[https://youtu.be/7oHYJ-e0HNM]
+**[Live Demo](https://youtu.be/7oHYJ-e0HNM)
 
 **Author**: Zahabia Ahmed  
 **Field**: Artificial Intelligence & Data Science
